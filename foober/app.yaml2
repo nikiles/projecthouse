@@ -1,0 +1,24 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /
+  script: Index.php
+
+- url: /inc
+  static_dir: inc
+
+- url: /css
+  static_dir: css
+
+- url: /img
+  static_dir: img
+
+- url: /About.php
+  script: About.php
+
+- url: /PastProjects.php
+  script: PastProjects.php
+
+- url: /.*
+  script: Index.php

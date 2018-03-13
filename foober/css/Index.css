@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+html {
+	height: 100%;
+}
+
+* {
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;
+}
+
+h1 {
+	margin: 1.5em 0em;
+	font-size: 3em;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	font-size:2em;
+	text-align: center;
+	display: block;
+}
+
+p{
+	font-size: 1em;
+	font-weight:100;
+}
+
+body{
+	margin: 0px;
+	padding: 0;
+	position: relative;
+	background: #551C6E; /*for older browsers*/
+	background-image: linear-gradient(to right, #301934, #551C6E, #551C6E, #551C6E, #301934);
+	background-size: 100%;
+	min-height: 100%;
+}
+
+
+main {
+	margin: 0;
+	color: #FFF;
+}
+
+hr {
+	display: block;
+	width: 100%;
+}
+
+.shortSummary{
+		display: flex;
+		max-width: 50%;
+		margin: auto;
+		flex-wrap: wrap;
+		justify-content: space-around;
+}
+.shortSummary h1{
+	margin-bottom: 0em;
+	font-size:2em;
+}
+
+main img{
+	width: 60%;
+	height: 60%;
+	display: block;
+	margin: 1em auto;
+}
+
+.fullwidth{
+	width:90%;
+	height: auto;
+	margin: 0;
+}
+#signUp {
+	margin-bottom: 30px;
+}
+
+a:link { 
+	text-decoration: none;
+	font-size: 1em;
+	color: #45F5E8;
+}
+
+a:hover {
+	color:#3BA3AC;
+}
+
+a:visited {
+	color: #45F5E8;
+}
+
+a:hover, a:active, a:visited {
+	text-decoration: none;
+} 
+
+/* CSS for Buttons */
+input[type=submit] {
+	border: 2px solid #45F5E8;
+	background: none;
+	padding: 16px 32px;
+	color: #45F5E8;
+	font-size: 1em;
+	display: block;
+	margin: 1em auto;
+}
+
+input.button:hover {
+	background-color:#3BA3AC;
+	color: #45F5E8;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+a input[type=submit]:active {
+	background: #45F5E8;
+	color:#3BA3AC;
+	text-decoration: none;
+}
+
+/* End CSS for Buttons*/
+
+/*CSS for Projects Page*/
+
+.ProjectHeader #MedellinWorkshop {
+	background-image: 
+}
+
+
+
+
+/*End CSS for Projects Page */
+
+@media only screen and (max-width: 400px) {
+   /* For desktop: */
+
+	.shortSummary{
+		max-width: 80%;
+	}
+
+}
