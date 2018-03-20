@@ -17,13 +17,13 @@
 		  <h1>Empower Yourself. Empower Others. </h1>
 		  <p>Project House is a cross-cultural, multi-disciplinary, transnational community. We are everywhere we can be, questioning everything we can, imagineering our way beyond the broken status quo. We are teachers and learners. We are dreamers and doers. We tackle challenges by building solutions, one step at a time.</p>
                   <img src="img/WorldEmpower.png">
-		  <p>Join us for a week or more, in person or from afar; contribute and learn with our amazing team! Each week we focus on a particular problem -- dysfunctional technology, remote working challenges, or social sustainability issues. Your group will brainstorm solutions to the problem, then work towards a self-determined set of deliverables to evaluate your solution. Deliverables can be: a website, an application, mockups, a video, a prototype, a market study, a crowd-funding campaign, a business plan.</p>
+		  <p>Join us for a week or more, in person or from afar; contribute and learn with our amazing team! Each week we focus on a particular problem -- dysfunctional technology, remote working challenges, or social sustainability issues. Your group will brainstorm solutions to the problem, then work towards a self-determined set of deliverables to evaluate your solution. Deliverables can be a number of outcomes, such as: a website, an application, mockups, a video, a prototype, a market study, a crowd-funding campaign, or a business plan.</p>
 		  <p>At Project House, you will:</p>
 		  <ul>
-		    <li>Leverage your existing expertise.
-		    <li>Acquire new skills appropriate to the task at hand.
-		    <li>Collaborate with amazing people on an impactful project.
-		    <li>Prepare yourself for a self-driven and/or location-independent lifestyle.
+			  <li>Leverage your existing expertise.</li>
+			  <li>Acquire new skills appropriate to the task at hand.</li>
+			  <li>Collaborate with amazing people on an impactful project.</li>
+			  <li>Prepare yourself for a self-driven and/or location-independent lifestyle.</li>
 		  </ul>
 		  <p>Maybe your a designer and you'd like to learn a little bit about coding? Maybe your a coder and want to learn a little bit about marketing? Skills needed include: brainstorming, leadership, communication, collaboration, research, arts, crafts, graphic design, 3d modelling, marketing, website developing, software, hardware. Out-of-the-box thinking is a huge plus.</p>
 
