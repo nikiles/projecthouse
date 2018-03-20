@@ -15,12 +15,18 @@
 	<main>
 	<div class="shortSummary">
 		  <h1>Empower Yourself. Empower Others. </h1>
+		  <p>Project House is a cross-cultural, multi-disciplinary, transnational community. We are everywhere we can be, questioning everything we can, imagineering our way beyond the broken status quo. We are teachers and learners. We are dreamers and doers. We tackle challenges by building solutions, one step at a time.</p>
+                  <img src="img/WorldEmpower.png">
+		  <p>Join us for a week or more, in person or from afar; contribute and learn with our amazing team! Each week we focus on a particular problem -- dysfunctional technology, remote working challenges, or social sustainability issues. Your group will brainstorm solutions to the problem, then work towards a self-determined set of deliverables to evaluate your solution. Deliverables can be: a website, an application, mockups, a video, a prototype, a market study, a crowd-funding campaign, a business plan.</p>
+		  <p>At Project House, you will:</p>
+		  <ul>
+		    <li>Leverage your existing expertise.
+		    <li>Acquire new skills appropriate to the task at hand.
+		    <li>Collaborate with amazing people on an impactful project.
+		    <li>Prepare yourself for a self-driven and/or location-independent lifestyle.
+		  </ul>
+		  <p>Maybe your a designer and you'd like to learn a little bit about coding? Maybe your a coder and want to learn a little bit about marketing? Skills needed include: brainstorming, leadership, communication, collaboration, research, arts, crafts, graphic design, 3d modelling, marketing, website developing, software, hardware. Out-of-the-box thinking is a huge plus.</p>
 
-		  <p>Project House is a community of experts around the world building a network of resources.  These empower people to build great and socially impactful products. </p>
-		
-		<img src="img/WorldEmpower.png">
-
-		  <p>The goal of Project House is to empower the individual. Society has been taught that education cannot happen outside of the classroom and without a trained teacher. Project House hopes to show that anyone can be their own teacher, and that in this age of the internet any resourceful active mind can accomplish their goals. </p>
 	</div>
 		<a href="PastProjects.php">
 			<input type="submit" value="SEE SOME PROJECTS" name="subscribe" class="button">
