@@ -14,7 +14,7 @@
 <?php include("inc/responsiveheader.php") ?>
 	<main>
 	<div class="shortSummary">
-		  <h1>Empower Yourself. EMPOWER... Others. </h1>
+		  <h1>Empower Yourself. Empower Others. </h1>
 		  <p>Project House is a cross-cultural, multi-disciplinary, transnational community. We are everywhere we can be, questioning everything we can, imagineering our way beyond the broken status quo. We are teachers and learners. We are dreamers and doers. We tackle challenges by building solutions, one step at a time.</p>
                   <img src="img/WorldEmpower.png">
 		  <p>Join us for a week or more, in person or from afar; contribute and learn with our amazing team! Each week we focus on a particular problem -- dysfunctional technology, remote working challenges, or social sustainability issues. Your group will brainstorm solutions to the problem, then work towards a self-determined set of deliverables to evaluate your solution. Deliverables can be: a website, an application, mockups, a video, a prototype, a market study, a crowd-funding campaign, a business plan.</p>

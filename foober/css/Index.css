@@ -14,7 +14,6 @@ h1 {
 	font-size: 3em;
 	font-weight: bold;
 	text-align: center;
-	color: blue;
 }
 
 h2 {
@@ -41,7 +40,7 @@ body{
 
 main {
 	margin: 0;
-	color: #FF0;
+	color: #FFF;
 }
 
 hr {
@@ -59,7 +58,6 @@ hr {
 .shortSummary h1{
 	margin-bottom: 0em;
 	font-size:2em;
-	color:blue;
 }
 
 main img{
