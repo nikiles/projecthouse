@@ -2,11 +2,11 @@
 /* form starting stylings ------------------------------- */
 .group 			  { 
 	position:relative; 
-	margin-bottom: 2em;
+  margin: 2em 0em;
 }
 input 				{
  	font-size:1em;
-	padding:1em;
+	padding:.5em;
 	display:block;
 	width:18em;
 	border:none;
@@ -24,7 +24,7 @@ label 				 {
   position:absolute;
   pointer-events:none;
   left:.5em;
-  top:1em;
+  top:-.5em;
   transition:0.2s ease all; 
   -moz-transition:0.2s ease all; 
   -webkit-transition:0.2s ease all;
@@ -32,7 +32,7 @@ label 				 {
 
 /* active state */
 input:focus ~ label, input:valid ~ label 		{
-  top:-.5em;
+  top:-1.5em;
   font-size:1em;
   color:#3BA3AC;
 }
@@ -96,8 +96,7 @@ input:focus ~ .highlight {
 
 input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill
 {
-	background-color: rgba(129, 207, 224);
-    background-image: none;
-    color: rgb(255, 255, 255);
-	height: 2em;
+  -webkit-text-fill-color: #9BD14B !important;
+  -webkit-box-shadow: 0 0 0 30px rgb(128, 78, 151) inset;
 }
+

@@ -7,11 +7,11 @@
 		<ul class="socialMedia">
 			<li>
 				<a href="https://www.facebook.com/projecthouseworld/">
-					<img src="img/FacebookIcon.png">
+					<img src="img/FacebookIcon.svg" width=40px/>
 				</a>
 			</li><li>
 				<a href="https://www.instagram.com/projecthouse_colombia/">
-					<img src="img/InstagramIcon.png">
+					<img src="img/InstagramIcon.svg" width=40px/>
 				</a>
 			</li>
 		</ul>

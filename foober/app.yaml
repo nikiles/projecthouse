@@ -4,9 +4,9 @@ api_version: 1
 
 handlers:
 # Serve images as static resources.
-- url: /(.+\.(gif|png|jpg|css))$
+- url: /(.+\.(gif|png|jpg|css|svg))$
   static_files: \1
-  upload: .+\.(gif|png|jpg|css)$
+  upload: .+\.(gif|png|jpg|css|svg)$
   application_readable: true
 
 # Serve php scripts.

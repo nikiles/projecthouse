@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.Project{
+	align-items: center;
+	display: block;
+	position: relative;
+}
+
+.ProjectHeader {
+	width: 100%;
+	margin: auto;
+	background-size: cover;
+	height: 20em;
+}
+
+.ProjectHeader h1{
+	position: absolute; 
+    color:#FFF;
+	font-size: 3em;
+    width: 100%;
+}
+
+.ProjectDescription p{
+	width: 50%;
+	margin: 1em auto;
+}
+
+.ProjectDescription img{
+	width:30%;
+}
+
+.MedellinWorkshop{
+    background-image: url(../img/MedellingWorkshops.png);
+}
+
+.LiaApp{
+	background-image: url(../img/MuseumTour.png);
+	background-position: center right;
+}
+
+.ProjectGallery{
+	display: inline-flex;
+	justify-content: center;
+}
+
+.ProjectGallery img{
+	width: 20%;
+	margin:1em;
+
+}

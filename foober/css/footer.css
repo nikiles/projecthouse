@@ -5,7 +5,6 @@ footer {
 	background:#793796;
 	color: #FFF;
 	position: relative;
-	padding: 0 16px;
 	width: 100%;
 	bottom:0;
 	left:0;
@@ -24,12 +23,12 @@ ul{
 
 .socialMedia img{
 	margin-right: 16px;
+	width: 2em;
 	
 }
 
  #LegalText{
 	color:#ADADAD;
-	margin: 0;
-	padding: 8px;
+	padding: 1em;
 	text-align: right;
 }

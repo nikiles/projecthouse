@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-	font-size:2em;
+	font-size:1em;
 	text-align: center;
 	display: block;
 }
@@ -37,15 +37,9 @@ body{
 	min-height: 100%;
 }
 
-
 main {
 	margin: 0;
 	color: #FFF;
-}
-
-hr {
-	display: block;
-	width: 100%;
 }
 
 .shortSummary{
@@ -60,6 +54,12 @@ hr {
 	font-size:2em;
 }
 
+.shortSummary h2{
+	font-size: 2em;
+	font-weight: bold;
+	display block;
+}
+
 main img{
 	width: 60%;
 	height: 60%;
@@ -67,14 +67,25 @@ main img{
 	margin: 1em auto;
 }
 
-.fullwidth{
-	width:90%;
-	height: auto;
-	margin: 0;
+/*CSS for layouts with image and text*/
+
+.MultiplePoints{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: flex-start;
+
 }
-#signUp {
-	margin-bottom: 30px;
+
+.SinglePoint{
+	max-width: 12em;
+	text-align: center;
 }
+
+
+
+
+/*CSS for Links*/
 
 a:link { 
 	text-decoration: none;
@@ -120,16 +131,6 @@ a input[type=submit]:active {
 
 /* End CSS for Buttons*/
 
-/*CSS for Projects Page*/
-
-.ProjectHeader #MedellinWorkshop {
-/*	background-image: */
-}
-
-
-
-
-/*End CSS for Projects Page */
 
 @media only screen and (max-width: 400px) {
    /* For desktop: */
