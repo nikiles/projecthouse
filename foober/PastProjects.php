@@ -2,8 +2,17 @@
 	<?php include("inc/responsiveheader.php") ?>
 	<main>
 		<h1>Past Projects</h1>
+			<ul class="subPageNav"> 
+			<li>
+					<a href="#Crowdfunding">Crowd Funding Workshop</a>
+			</li>
+			<li>
+					<a href="#Language_Immersion_App">Language Immersion App</a>
+			</li>
+			
+			</ul>	
 		<div class="Project">
-			<div class="ProjectHeader MedellinWorkshop">
+			<div class="ProjectHeader MedellinWorkshop" id="Crowdfunding">
 				<h1>Crowd-Funding Toolkit Workshop</h1>
 			</div>
 
@@ -19,7 +28,7 @@
 		</div>
 		
 		<div class="Project">
-			<div class="ProjectHeader LiaApp">
+			<div class="ProjectHeader LiaApp" id="Language_Immersion_App">
 				<h1>Language Immersion App - LIA</h1>
 			</div>
 
