@@ -1,14 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>About</title>
-<link href="css/Index.css" rel="stylesheet" type="text/css">
-<link href="css/responsiveheader.css" rel="stylesheet" type="text/css">
-<link href="css/footer.css" rel="stylesheet" type="text/css">
-</head>
-	
-<body>
+
 	<?php include("inc/responsiveheader.php") ?>
 	<main>
 		<div class="shortSummary">
