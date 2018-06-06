@@ -30,6 +30,31 @@
 	width:30%;
 }
 
+#NextUp{
+    background-image: url(../img/MedellingWorkshops.png);
+}
+
+#Medellin2{
+    background-image: url(../img/MuseumTour.png);
+}
+
+#Medellin1{
+    background-image: url(../img/MuseumTour.png);
+}
+
+#Sudamerica{
+    background-image: url(../img/MuseumTour.png);
+}
+
+#Panama{
+    background-image: url(../img/MuseumTour.png);
+}
+
+
+#Ithaca{
+    background-image: url(../img/MuseumTour.png);
+}
+
 .MedellinWorkshop{
     background-image: url(../img/MedellingWorkshops.png);
 }

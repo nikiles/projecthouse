@@ -18,6 +18,7 @@
 <link href="css/footer.css" rel="stylesheet" type="text/css">
 <link href="css/emailform.css" rel="stylesheet" type="text/css">
 <link href="css/pastprojects.css" rel="stylesheet" type="text/css">	
+<link rel="shortcut icon" href="img/Favicon.ico" type="image/x-icon">
 <title>Project House</title>
 </head>
 
