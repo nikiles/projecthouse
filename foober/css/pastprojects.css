@@ -1,5 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
+/* rename / split file as php filenames change. */
 
 .Project{
 	align-items: center;
@@ -30,7 +31,28 @@
 	width:30%;
 }
 
-#NextUp{
+.ProjectGallery{
+	display: inline-flex;
+	justify-content: center;
+}
+
+.ProjectGallery img{
+	width: 20%;
+	margin:1em;
+
+}
+
+/* COMMENT: Background images for live sessions (temporarily MediaLog.php), TODO: fix names and link images. */
+
+#BarHarbor{
+    background-image: url(../img/MedellingWorkshops.png);
+}
+
+#Granada{
+    background-image: url(../img/MedellingWorkshops.png);
+}
+
+#PuertoViejo{
     background-image: url(../img/MedellingWorkshops.png);
 }
 
@@ -50,27 +72,26 @@
     background-image: url(../img/MuseumTour.png);
 }
 
-
 #Ithaca{
     background-image: url(../img/MuseumTour.png);
 }
 
-.MedellinWorkshop{
-    background-image: url(../img/MedellingWorkshops.png);
-}
+/* COMMENT: Background images for featured projects (temporarily PastProjects.php), TODO: fix names and link images. */
 
-.LiaApp{
+#LIA{
 	background-image: url(../img/MuseumTour.png);
 	background-position: center right;
 }
 
-.ProjectGallery{
-	display: inline-flex;
-	justify-content: center;
+/* TODO: need a permanent name for the meta-workshop project. */
+#fixmyname{
+    background-image: url(../img/MedellingWorkshops.png);
 }
 
-.ProjectGallery img{
-	width: 20%;
-	margin:1em;
+#WhoseShoes{
+    background-image: url(../img/MuseumTour.png);
+}
 
+#YQWERT{
+    background-image: url(../img/MuseumTour.png);
 }

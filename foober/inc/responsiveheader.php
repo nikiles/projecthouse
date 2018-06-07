@@ -51,9 +51,9 @@
 	</div>	
 		<div class="topnav" id="myTopnav">
 			<a href="Index.php"> Home </a>
-  			<a href= "PastProjects.php">Past Projects</a>
+  			<a href= "PastProjects.php">Featured Projects</a>
+  			<a href= "MediaLog.php">Media</a>
   			<a href="contact.php">Contact Us</a>
 		</div>
 	
 </header>
-
